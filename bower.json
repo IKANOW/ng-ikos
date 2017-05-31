@@ -1,0 +1,28 @@
+{
+  "name": "ng-ikos",
+  "description": "IKOS AngularJS API Services",
+  "main": "dist/ng-ikos.js",
+  "authors": [
+    "Mike Grill"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ikos"
+  ],
+  "moduleType": [],
+  "homepage": "https://bitbucket.org/ikanow/ng-ikos",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5",
+    "jshashes": "^1.0.5",
+    "lodash": "~4.11",
+    "sprintf": "^1.0.3"
+  }
+}
